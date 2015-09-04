@@ -14,6 +14,7 @@
 		84FE90D21B9967E200F34DD3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84FE90D11B9967E200F34DD3 /* Images.xcassets */; };
 		84FE90D51B9967E200F34DD3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84FE90D31B9967E200F34DD3 /* LaunchScreen.xib */; };
 		84FE90E11B9967E200F34DD3 /* GlobalUrlAccessTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FE90E01B9967E200F34DD3 /* GlobalUrlAccessTests.m */; };
+		84FE90EF1B996E7A00F34DD3 /* NPKGlobalAccess.m in Sources */ = {isa = PBXBuildFile; fileRef = 84FE90EE1B996E7A00F34DD3 /* NPKGlobalAccess.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		84FE90DA1B9967E200F34DD3 /* GlobalUrlAccessTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GlobalUrlAccessTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84FE90DF1B9967E200F34DD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84FE90E01B9967E200F34DD3 /* GlobalUrlAccessTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GlobalUrlAccessTests.m; sourceTree = "<group>"; };
+		84FE90ED1B996E7A00F34DD3 /* NPKGlobalAccess.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NPKGlobalAccess.h; sourceTree = "<group>"; };
+		84FE90EE1B996E7A00F34DD3 /* NPKGlobalAccess.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NPKGlobalAccess.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				84FE90C91B9967E200F34DD3 /* AppDelegate.m */,
 				84FE90CB1B9967E200F34DD3 /* ViewController.h */,
 				84FE90CC1B9967E200F34DD3 /* ViewController.m */,
+				84FE90ED1B996E7A00F34DD3 /* NPKGlobalAccess.h */,
+				84FE90EE1B996E7A00F34DD3 /* NPKGlobalAccess.m */,
 				84FE90CE1B9967E200F34DD3 /* Main.storyboard */,
 				84FE90D11B9967E200F34DD3 /* Images.xcassets */,
 				84FE90D31B9967E200F34DD3 /* LaunchScreen.xib */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84FE90EF1B996E7A00F34DD3 /* NPKGlobalAccess.m in Sources */,
 				84FE90CD1B9967E200F34DD3 /* ViewController.m in Sources */,
 				84FE90CA1B9967E200F34DD3 /* AppDelegate.m in Sources */,
 				84FE90C71B9967E200F34DD3 /* main.m in Sources */,
