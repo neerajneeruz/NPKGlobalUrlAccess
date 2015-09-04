@@ -1,6 +1,10 @@
 Pod::Spec.new do |s|
   s.name         = "NPKGlobalUrlAccess"
+<<<<<<< HEAD
   s.version      = “1.0.1”
+=======
+  s.version      = "1.0.1"
+>>>>>>> 1cd5853dcea42c19cf81d2ffae60db21ca5af18a
   s.summary      = "ARC and GCD Compatible Reachability Class for iOS and OS X 1."
   s.description  = <<-DESC
                   This application will help you to implement global sccess string in our project.
