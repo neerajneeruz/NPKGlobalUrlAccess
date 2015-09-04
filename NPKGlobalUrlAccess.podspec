@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://github.com/neerajneeruz/NPKGlobalUrlAccess"
-  s.license      = { :type => "MIT" }
+  s.license = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author              = { "Neeraj P K" => "neerajpk02@gmail.com" }
   s.social_media_url = 'https://www.facebook.com/neerajneeruz'
   s.platform     = :ios, "7.0"
