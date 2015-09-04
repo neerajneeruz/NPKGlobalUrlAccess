@@ -9,7 +9,6 @@
 #import "NPKGlobalAccess.h"
 NSString* const accessUrl=@"www.google.com";
 NSString* const accessString=@"globalString";
-int      const globalInteger;
 @implementation NPKGlobalAccess
 
 @end

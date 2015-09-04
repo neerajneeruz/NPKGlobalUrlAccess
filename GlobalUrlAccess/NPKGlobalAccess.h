@@ -9,7 +9,6 @@
 #import <Foundation/Foundation.h>
 extern NSString* const accessUrl;
 extern NSString* const accessString;
-int      const globalInteger = 23;
 @interface NPKGlobalAccess : NSObject
 
 @end
